@@ -1,0 +1,21 @@
+.call-container {
+  height: 1000px;
+}
+
+.sideleft-call {
+  background: #ffffff;
+  height: 1000px;
+  padding: 40px;
+}
+
+.sideright-call {
+  background: #fafafa;
+  height: 1000px;
+}
+
+.user-img-chat {
+  border-radius: 20px;
+  border: none;
+  width: 70px;
+  height: auto;
+}

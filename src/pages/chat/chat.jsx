@@ -12,7 +12,7 @@ const Chat = () => {
 
   // listener
   useEffect(() => {
-    const socket = io(`https://damn-chat-backend-deploy-production.up.railway.app`);
+    const socket = io(`${process.env.REACT_APP_BACKEND_URL}`);
     socket.on("send-message-response", (response) => {
       // set receiver
       const receiver = JSON.parse(localStorage.getItem("receiver"));
@@ -60,7 +60,7 @@ const Chat = () => {
     const user = JSON.parse(localStorage.getItem("data"));
     setLogin(user);
     axios
-      .get(`https://damn-chat-backend-deploy-production.up.railway.app/user/list`)
+      .get(`${process.env.REACT_APP_BACKEND_URL}/user/list`)
       .then((response) => {
         setListUser(response.data.data);
         console.log(response.data);
@@ -96,7 +96,7 @@ const Chat = () => {
 
   const deleteChat = (id_chat) => {
     axios
-      .delete(`https://damn-chat-backend-deploy-production.up.railway.app/chat/delete/${id_chat}`)
+      .delete(`${process.env.REACT_APP_BACKEND_URL}/chat/delete/${id_chat}`)
       .then((res) => {
         console.log(res);
       })

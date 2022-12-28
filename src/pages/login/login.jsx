@@ -16,7 +16,7 @@ const Login = () => {
     e.preventDefault();
     console.log(form);
     axios
-      .post(`http://localhost:3005/login`, form)
+      .post(`${process.env.REACT_APP_BACKEND_URL}/login`, form)
       .then((response) => {
         console.log(response.data);
         if (response.data.status !== "success") {

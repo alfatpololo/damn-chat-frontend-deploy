@@ -31,7 +31,7 @@ const Register = () => {
         password: form.password,
       };
       axios
-        .post(`http://localhost:3005/register`, body)
+        .post(`${process.env.REACT_APP_BACKEND_URL}/register`, body)
         .then((res) => {
           if (res.data.code !== 200) {
             alert("error:" + res.data.message);

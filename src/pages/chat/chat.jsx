@@ -440,7 +440,7 @@ const Chat = () => {
                                 >
                                   <img
                                     className="user-img-chat"
-                                    src={`http://localhost:3005/${login.image}`}
+                                    src={`${login.image}`}
                                     alt=""
                                   />
                                 </div>

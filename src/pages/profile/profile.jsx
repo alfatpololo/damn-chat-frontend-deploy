@@ -16,7 +16,7 @@ const Profile = () => {
     const data = JSON.parse(localStorage.getItem("data"));
     const id = data.id_user;
     axios
-      .get(`https://damn-chat-backend-deploy-production.up.railway.app/user/list/${id}`)
+      .get(`${process.env.REACT_APP_BACKEND_URL}/user/list/${id}`)
       .then((res) => {
         setProfile(res.data.data);
         console.log(res.data.data);
@@ -30,7 +30,7 @@ const Profile = () => {
     const data = JSON.parse(localStorage.getItem("data"));
     const id = data.id_user;
     axios
-      .delete(`https://damn-chat-backend-deploy-production.up.railway.app/user/delete/${id}`)
+      .delete(`${process.env.REACT_APP_BACKEND_URL}/user/delete/${id}`)
       .then((res) => {
         console.log(res);
         alert("Hapus Berhasil");

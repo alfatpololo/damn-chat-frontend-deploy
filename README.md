@@ -1,4 +1,4 @@
-# Whirlpool (Frontend)
+# Dayum Chat (Frontend)
 
 <!-- Logo -->
 <div align="center">

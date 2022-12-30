@@ -139,8 +139,8 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- Related Projects -->
 ## Related Project
-:rocket: [`Whirlpool (Backend)`](https://github.com/alfatpololo/damn-chat-backend-deploy)
+:rocket: [`Dayum Chat (Backend)`](https://github.com/alfatpololo/damn-chat-backend-deploy)
 
-:rocket: [`Whirlpool App Demo`](https://damn-chat-frontend-deploy.vercel.app/)
+:rocket: [`Dayum Chat App Demo`](https://damn-chat-frontend-deploy.vercel.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>

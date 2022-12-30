@@ -109,8 +109,7 @@ Contributions are what make the open source community such an amazing place to b
 <p align="center" display=flex>
 <table>
   <tr>
-    <td><image src="./documentation/register.jpeg" alt="Register" width=100%></td>
-    <td><image src="./documentation/login.jpeg" alt="Login" width=100%/></td>
+    
   </tr>
    <tr>
     <td align="center">Register</td>

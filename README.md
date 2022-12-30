@@ -62,7 +62,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone the repository
 ```
-git clone https://github.com/brndnwjy/whirlpool-app
+git clone https://github.com/alfatpololo/damn-chat-frontend-deploy
 ```
 - Go to repository folder
 ```
@@ -139,8 +139,8 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- Related Projects -->
 ## Related Project
-:rocket: [`Whirlpool (Backend)`](https://github.com/brndnwjy/whirlpool-api)
+:rocket: [`Whirlpool (Backend)`](https://github.com/alfatpololo/damn-chat-backend-deploy)
 
-:rocket: [`Whirlpool App Demo`](https://whirlpool-app.vercel.app)
+:rocket: [`Whirlpool App Demo`](https://damn-chat-frontend-deploy.vercel.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>

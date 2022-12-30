@@ -124,7 +124,8 @@ Contributions are what make the open source community such an amazing place to b
     <td align="center">Main Page</td>
     <td align="center">Profile Detail</td>
   </tr>
-
+ <td><image src="./documentation/register.jpeg" alt="Register" width=100%></td>
+    <td><image src="./documentation/login.jpeg" alt="Login" width=100%/></td>
   <tr>
     <td><image src="./documentation/chat-room.jpeg" alt="Chatroom" width=100%></td>
     <td><image src="./documentation/friend-detail.jpeg" alt="Friend Detail" width=100%></td>

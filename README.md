@@ -34,8 +34,7 @@
 
 <!-- About The Project -->
 ## About The Project
-Whirlpool was made based on Telegram.
-Just like its role model, Whirlpool is a real time chatting app which allows users to chit-chat with their friends. You can change how your profile looks by editing your account info, show the world how you feel right now with customizable bio and lastly share your story with your beloved ones anytime in a day.
+Telegram Chat is a real-time app for one-on-one and group chat that enables users to register for chats with all other people, this application uses the PERN (PostgreSQL, ExpressJs, ReactJs, NodeJs) stack and also socket.io technology.
 
 ### Built With
 This app was built with some technologies below:
@@ -63,7 +62,7 @@ This is an example of how to list things you need to use the software and how to
 
 - Clone the repository
 ```
-git clone https://github.com/brndnwjy/whirlpool-app
+git clone https://github.com/alfatpololo/damn-chat-frontend-deploy
 ```
 - Go to repository folder
 ```
@@ -140,8 +139,8 @@ Contributions are what make the open source community such an amazing place to b
 
 <!-- Related Projects -->
 ## Related Project
-:rocket: [`Whirlpool (Backend)`](https://github.com/brndnwjy/whirlpool-api)
+:rocket: [`Dayum Chat (Backend)`](https://github.com/alfatpololo/damn-chat-backend-deploy)
 
-:rocket: [`Whirlpool App Demo`](https://whirlpool-app.vercel.app)
+:rocket: [`Dayum Chat App Demo`](https://damn-chat-frontend-deploy.vercel.app/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>

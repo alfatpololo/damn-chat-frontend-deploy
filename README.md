@@ -117,8 +117,8 @@ Contributions are what make the open source community such an amazing place to b
   </tr>
   
   <tr>
-    <td><image src="./documentation/main.jpeg" alt="Main" width=100% ></td>
-    <td><image src="./documentation/profile-detail.jpeg" alt="Profile Detail" width=100%/></td>
+    <td><image src="./documentation/main.png" alt="Main" width=100% ></td>
+    <td><image src="./documentation/profile-detail.png" alt="Profile Detail" width=100%/></td>
   </tr>
   <tr>
     <td align="center">Main Page</td>
@@ -126,8 +126,8 @@ Contributions are what make the open source community such an amazing place to b
   </tr>
 
   <tr>
-    <td><image src="./documentation/chat-room.jpeg" alt="Chatroom" width=100%></td>
-    <td><image src="./documentation/friend-detail.jpeg" alt="Friend Detail" width=100%></td>
+    <td><image src="./documentation/chat-room.png" alt="Chatroom" width=100%></td>
+    <td><image src="./documentation/friend-detail.png" alt="Friend Detail" width=100%></td>
   </tr>
   <tr>
       <td align="center">Chatroom</td>
